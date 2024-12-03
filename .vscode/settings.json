@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CMPM 125 Game 2.sln"
+    "dotnet.defaultSolution": "CMPM 125 Juice.sln"
 }
